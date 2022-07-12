@@ -1,4 +1,4 @@
 # Books
-this is a django books collections
+This is a  books collection app
 # Django free project
-this is a book list project
+#### this displays lists of books in a store
